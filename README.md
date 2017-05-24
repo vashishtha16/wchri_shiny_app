@@ -1,2 +1,2 @@
 # wchri_shiny_app
-A shiny based app to access metadata related to WCHRI researchers
+A shiny based app to access metadata related to WCHRI researchers. This app facilitates the access to the catalogue developed by University of Alberta Libraries for the studies related to the WCHRI researcher. User can easily access the metadata related to the desired study at desired web platform. The choices provided by this tool consist of: Clinicaltrials.gov (only for clinical trials), Dataverse and RedCap. 
